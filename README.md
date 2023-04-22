@@ -7,4 +7,4 @@ I will use one of the framework for styling.
 # Strech goal
 Have a purchase link for the book you chose
 
-![Wireframe](relative/path/to/Untitled.jpg)
+![Wireframe](Untitled.jpg)
