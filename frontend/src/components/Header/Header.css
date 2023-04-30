@@ -1,6 +1,14 @@
 .header-content{
-    min-height: 75vh;
-    background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141,39, 174, 0.5)), url("../../pictures/MainPhoto.jpg") center/cover no-repeat;
-
+    min-height: 70vh;
+    background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), url("../../pictures/MainPhoto.jpg") center/cover no-repeat;
+    flex-direction: column;
 }
-
+.header-title{
+    font-size: 3.5rem;
+}
+.header-text{
+    margin-top: -1.7rem;
+    margin-bottom: 2.7rem;
+    opacity: 0.9;
+    max-width: 750px;
+}
